@@ -1,21 +1,21 @@
 ## Criando API [NodeJS + Express + MongoDB]
 
 Softwares Recomendados:
-npm: https://docs.npmjs.com/cli/v6/commands/npm-install
-NodeJS: https://nodejs.org/en/
-VSCode: https://code.visualstudio.com/download
-Postman: https://www.postman.com/downloads/
+ - npm: https://docs.npmjs.com/cli/v6/commands/npm-install
+ - NodeJS: https://nodejs.org/en/
+ - VSCode: https://code.visualstudio.com/download
+ - Postman: https://www.postman.com/downloads/
 
 ## Iniciando Projeto:
  - Após instalar os softwares recomendados
  - Crie um diretório como nome do projeto
 
 ## Comando recomendados
-npm init -y             => Inicia desenvolvimento do Projeto
-npm install express     => Instala pacote Express
-node src/server.js      => Inicia Servidor
-npm install mongoose    => Instala pacote mongoose
-npm install bcryptjs    => Instala pacote bcryptjs
+ - npm init -y             => Inicia desenvolvimento do Projeto
+ - npm install express     => Instala pacote Express
+ - node src/server.js      => Inicia Servidor
+ - npm install mongoose    => Instala pacote mongoose
+ - npm install bcryptjs    => Instala pacote bcryptjs
 
 ## Resumo
  - Criação de Banco no MongoDB (NoSQL)
