@@ -16,6 +16,7 @@ Softwares Recomendados:
  - node src/server.js      => Inicia Servidor
  - npm install mongoose    => Instala pacote mongoose
  - npm install bcryptjs    => Instala pacote bcryptjs
+ - npm install jsonwebtoken    => Instala pacote
 
 ## Resumo
  - Criação de Banco no MongoDB (NoSQL)
@@ -25,3 +26,7 @@ Softwares Recomendados:
 
 ## Gitignore
 /node_modules
+
+Criado Rota de autenticação
+Gerado Token
+Adicionado Autenticação JWT com pacote jsonwebtoken
