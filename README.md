@@ -27,6 +27,6 @@ Softwares Recomendados:
 ## Gitignore
 /node_modules
 
-Criado Rota de autenticação
-Gerado Token
-Adicionado Autenticação JWT com pacote jsonwebtoken
+- Criado Rota de autenticação
+- Gerado Token
+- Adicionado Autenticação JWT com pacote jsonwebtoken
